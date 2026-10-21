@@ -1245,7 +1245,9 @@ button {
 .certificate-art-js {
   background:var(--accent);
 }
-
+.certificate-art-mysql {
+  background: #86c1e3;
+}
 .certificate-art-label {
   font-size:.5rem;
   font-weight:600;
